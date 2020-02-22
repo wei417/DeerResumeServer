@@ -3,7 +3,7 @@
 
 我根据DeerResume的前端代码写的后台服务，字段略有改动，需要用修改过的前端代码运行
 
-前端地址：https://github.com/wei417/DeerResume.git)
+前端地址：https://github.com/liuwcn/DeerResume.git)
 
 项目只需修改数据库连接信息即可运行，运行后表会自动创建，手动插入默认的简历信息
 ```mysql
